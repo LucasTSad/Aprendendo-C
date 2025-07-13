@@ -41,7 +41,7 @@ int main(){
     printf("Seu simbolo é %c\n", simbolo);
     printf("Seu simbolo de moeda é %c\n", currency);
 
-    //char[]
+    //char[] (strings)
 
     char name[] = "Lucas Sad";
     char comida[] = "pizza";
